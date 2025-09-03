@@ -1,0 +1,51 @@
+Lista de Exercícios – Estruturas de Repetição em Java
+Exercício 1: Soma dos N primeiros números naturais
+Descrição:
+Crie um programa que solicite ao usuário um número N e utilize um loop for
+para calcular a soma dos primeiros N números naturais.
+Requisitos:
+• O programa deve utilizar um contador para iterar de 1 até N.
+• Deve utilizar um acumulador para somar os valores sucessivos.
+• Ao final, exibir a soma total.
+
+Exercício 2: Tabuada de um número
+Descrição:
+Escreva um programa que solicite um número ao usuário e exiba a tabuada
+desse número de 1 a 10, utilizando um loop while.
+Requisitos:
+• O programa deve pedir um número inteiro ao usuário.
+• Utilizar um contador para iterar de 1 a 10.
+• Exibir a multiplicação do número pelo contador em cada iteração.
+
+Exercício 3: Contagem regressiva usando do-while
+Descrição:
+Crie um programa que solicite um número ao usuário e faça uma contagem
+regressiva até 0, utilizando um loop do-while.
+Requisitos:
+• O programa deve solicitar um número inteiro positivo ao usuário.
+• Utilizar um contador decrescente para reduzir o valor até 0.
+• Exibir os números da contagem regressiva um por um.
+
+Exercício 4: Média de notas de uma turma
+
+Descrição:
+Desenvolva um programa que calcule a média das notas de uma turma, onde
+o usuário informe quantos alunos há na turma e suas respectivas notas.
+Requisitos:
+• O programa deve solicitar a quantidade de alunos.
+• Deve utilizar um loop for para receber as notas de cada aluno.
+• Utilizar um acumulador para somar todas as notas.
+• No final, exibir a média da turma.
+
+Exercício 5: Números primos em um intervalo
+Descrição:
+Escreva um programa que solicite dois números ao usuário e exiba todos os
+números primos no intervalo entre eles, utilizando um loop aninhado (for
+dentro de for).
+Requisitos:
+• O programa deve solicitar dois números inteiros positivos (início e fim
+do intervalo).
+• Deve utilizar um loop externo para percorrer os números dentro do
+intervalo.
+• Deve utilizar um loop interno para verificar se cada número é primo.
+• Exibir apenas os números primos encontrados.
