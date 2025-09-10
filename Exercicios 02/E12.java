@@ -15,7 +15,7 @@ public class E12 {
         }else{
             if(num1==num2 && num1==num3){
                 System.out.println("triangulo equilatero");
-            }else if(num1==num2 || num1==num3){
+            }else if(num1==num2 || num1==num3 || num2==num3){
                 System.out.println("triangulo isósceles");
             }else{
                 System.out.println("triangulo escaleno");
