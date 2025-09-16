@@ -1,0 +1,60 @@
+Lista de Exercícios – Manipulação de Arrays em Java
+Exercício 1: Maior e Menor Valor em um Array
+Descrição:
+Crie um programa que solicite ao usuário 5 números inteiros e armazene-os em
+um array. Após isso, o programa deve exibir o maior e o menor número do array.
+Requisitos:
+• Criar um array de tamanho 5.
+• Utilizar um loop for para percorrer o array e encontrar o maior e o menor
+valor.
+• Exibir o maior e o menor número armazenados no array.
+
+
+
+Exercício 2: Cálculo da Média de Notas
+Descrição:
+Desenvolva um programa que peça ao usuário para inserir 4 notas e armazene-as
+em um array. Depois, o programa deve calcular e exibir a média das notas.
+Requisitos:
+• Criar um array de tamanho 4 para armazenar as notas.
+• Utilizar um loop for para somar todas as notas e calcular a média.
+• Se a média for maior ou igual a 7, exibir "Aprovado", senão, exibir
+"Reprovado".
+
+
+
+Exercício 3: Inversão de Elementos de um Array
+Descrição:
+Escreva um programa que solicite ao usuário 6 números inteiros e os armazene
+em um array. Em seguida, exiba os números na ordem inversa à de entrada.
+Requisitos:
+• Criar um array de tamanho 6.
+• Utilizar um loop for para preencher o array.
+• Utilizar outro loop for para exibir os elementos na ordem inversa.
+
+
+
+Exercício 4: Contagem de Números Pares em um Array
+
+Descrição:
+Crie um programa que solicite ao usuário 8 números inteiros e armazene-os em
+um array. O programa deve contar e exibir a quantidade de números pares no
+array.
+Requisitos:
+• Criar um array de tamanho 8.
+• Utilizar um loop for para percorrer o array e contar quantos números são
+pares.
+• Exibir a quantidade de números pares encontrados.
+
+
+
+Exercício 5: Busca de Elemento em um Array
+Descrição:
+Implemente um programa que solicite ao usuário 10 números inteiros e os
+armazene em um array. Em seguida, o usuário deve digitar um número para buscar
+no array. O programa deve informar se o número está presente e em qual posição.
+Requisitos:
+• Criar um array de tamanho 10.
+• Solicitar um número ao usuário e verificar se ele está presente no array.
+• Se o número for encontrado, exibir sua posição. Caso contrário, exibir
+"Número não encontrado.".
